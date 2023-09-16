@@ -1,0 +1,140 @@
+{
+  "internships": [
+    {
+      "id": "1",
+      "src": "./img/Institute-Website.png",
+      "title": "MERN stack Intern",
+      "dataAos": "fade-right",
+      "description": "During my summer internship at Panjab University's DIC department, I had the opportunity to work on web development projects that incorporated cutting-edge technologies such as MongoDB, React, Express, Node.js, the Sendgrid API, Multer Library, and various others. These projects showcased advanced features like lazy loading, email OTP verification, image uploading, and user profile customization.",
+      "github": "https://github.com/abhishekGoyal274/Institute-Website",
+      "live": "https://timely-treacle-35e3b8.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/power-bi.png",
+      "title": "Power BI Desktop- Data Analyst Intern",
+      "dataAos": "fade-left",
+      "description": "This internship experience centered on Power BI, equipping me with valuable skills such as sourcing data from diverse channels, data cleansing, comprehensive data analysis, table relationship establishment, and the creation of dynamic and informative dashboards. This internship not only served as my inaugural professional endeavor but also imparted essential teamwork skills, instilled discipline in a corporate setting, and clarified my professional responsibilities.",
+      "github": "https://github.com/abhishekGoyal274/Power-BI",
+      "live": "https://github.com/abhishekGoyal274/Power-BI"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "src": "./img/pumeet-puleet.jpg",
+      "title": "Pumeet Puleet Web Portal",
+      "description": "As part of my university-assigned four-semester project, I took charge of the frontend development. Leveraging a suite of technologies including Axios, Material UI, useEffect, useContext, SSG, and SSR, I spearheaded the creation of a high-performance, user-centric, and secure website.",
+      "github": "https://github.com/abhishekGoyal274/Institute-Website",
+      "live": "https://timely-treacle-35e3b8.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--1UXUiIoS--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2uors208q22bcd82g52.png",
+      "title": "PWAgram",
+      "description": "Utilizing cutting-edge Progressive Web App (PWA) technology, I developed an application/website with the capability to operate offline, store requests during offline periods, employ cache strategies, facilitate and dispatch notifications, provide the option to add the app to the home screen, and deliver additional functionalities.",
+      "github": "https://github.com/abhishekGoyal274/PWA-PWAGram",
+      "live": "https://magnificent-rugelach-b004c7.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/YASE.png",
+      "title": "Yojna Aneek Sthan Ek",
+      "description": "We developed a website to address the gap in accessing comprehensive government schemes and addressing public inquiries in India. Our platform aims to provide a centralized solution, offering a wide range of schemes categorized by various criteria and facilitating user queries.",
+      "github": "https://github.com/abhishekGoyal274/YojnaAneekSthanEk",
+      "live": "https://yase.onrender.com/"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "Frontend Development",
+      "skill": [
+        {
+          "name": "HTML5",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "CSS3",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "Javascript",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "ReactJS",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Bootstrap 5",
+          "exposure": "Begginer"
+        },
+        {
+          "name": "Typescript",
+          "exposure": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Backend Development",
+      "skill": [
+        {
+          "name": "ExpressJS",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "NodeJS",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "MongoDB",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "EJS",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Rest API",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Git & GitHub",
+          "exposure": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Programming/DSA",
+      "skill": [
+        {
+          "name": "C++",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "OOPS",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "Python",
+          "exposure": "Begginer"
+        },
+        {
+          "name": "Javascript",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Promises and Async & Await",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "STL",
+          "exposure": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "projects": [],
+  "skills": [
+    {
+      "id": "4",
+      "name": "Tools/Libraries",
+      "skill": [
+        {
+          "name": "JWT Token",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Firebase",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "Figma",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "Power BI",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Passport JS",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Twillio/Sendgrid",
+          "exposure": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Other Skills",
+      "skill": [
+        {
+          "name": "MS-Office",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Problem Solving",
+          "exposure": "Experienced"
+        },
+        {
+          "name": "System Design",
+          "exposure": "Intermediate"
+        },
+        {
+          "name": "Web designing",
+          "exposure": "Begginer"
+        }
+      ]
+    }
+  ]
+}
