@@ -24,7 +24,7 @@ const Footer = () => {
                     </ul>
                 </div>
             </nav>
-            <p>Copyright &#169; 2023 Harsh Abhishek Goyal. All Rights Reserved.</p>
+            <p>Copyright &#169; 2023 Abhishek Goyal. All Rights Reserved.</p>
         </footer>
     );
 };

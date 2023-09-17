@@ -37,7 +37,7 @@ const NavBar = () => {
                 </div>
             </nav>
             <nav id="hamburger-nav">
-                <div className="logo">Harsh</div>
+                <div className="logo"><img src={logo} height={"150px"} width={"150px"} alt="logo"/></div>
                 <div className={`hamburger-menu ${isMenuOpen ? "open" : ""}`}>
                     <div className="hamburger-icon" onClick={toggleMenu}>
                         <span></span>
